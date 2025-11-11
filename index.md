@@ -15,10 +15,9 @@ I am an undergraduate student from the School of Biological Sciences and Technol
 ## Works
 
 - 广告投放系统
+[ 产品立项说明书](https://www.kdocs.cn/l/crEZiODXPklT) 
 
-  产品立项说明书：https://www.kdocs.cn/l/crEZiODXPklT
-
-  功能清单：https://www.kdocs.cn/l/cin5ckKcdTVE
+ [功能清单](https://www.kdocs.cn/l/cin5ckKcdTVE) 功能清单：https://www.kdocs.cn/l/cin5ckKcdTVE
 
   产品架构图：https://gcnueiq1b90b.feishu.cn/docx/Mh8UdjelooYeFMxjFnPcKNa8nLd
 
@@ -40,6 +39,7 @@ I am an undergraduate student from the School of Biological Sciences and Technol
   Axure原型图：https://pan.baidu.com/s/1mgls-JgqDcy8EV_ihBAEwg?pwd=2025 
 
   PRD： https://pan.baidu.com/s/1xqSn2vlPS8w3u-loO9KFzw?pwd=2025 
+
 
 
 
